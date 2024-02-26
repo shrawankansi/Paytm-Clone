@@ -14,7 +14,7 @@ In this project i use only html, Tailwind CSS
 
 
 ## 🛠 Skills
-HTML, CSS..., TailwindCSS
+HTML, CSS..., TailwindCSS, JavaScript.
 
 
 ## Screenshots
